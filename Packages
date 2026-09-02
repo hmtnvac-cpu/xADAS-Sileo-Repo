@@ -1,13 +1,13 @@
 Package: com.hmtnvac.xadasdev
-Version: 0.9.0~dev78
+Version: 0.9.0~dev79
 Architecture: iphoneos-arm64
 Maintainer: xADAS Project
 Depends: firmware (>= 16.0)
-Filename: debs/xADAS-Dev_0.9.0~dev78_iphoneos-arm64.deb
-Size: 22802004
-MD5sum: b330222c8e6a0268203a04e01ae7041a
-SHA1: 51c0804ac77051e32b96614d1c60cd479949e9f8
-SHA256: 813b1ec46369f3f170f26b8301928641fee63ae09aa4bc2cfeb94daaacdd7983
+Filename: debs/xADAS-Dev_0.9.0~dev79_iphoneos-arm64.deb
+Size: 22803332
+MD5sum: 12c90c4ab2e3d53bca2f4129288970ba
+SHA1: 5f642fe8b21418da15f06750b485aefa27f21fb6
+SHA256: d65d85484c82638a0039cf27e0f8eaf2c6e627e7053f2e963bd4381b9132be28
 Section: Utilities
 Priority: optional
 Description: xADAS development build for rootless jailbreak. 70mai RTSP ADAS testing channel.
