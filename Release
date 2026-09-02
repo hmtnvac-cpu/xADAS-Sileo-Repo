@@ -6,10 +6,10 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: xADAS development packages for rootless iOS jailbreak devices.
-Date: Wed, 02 Sep 2026 07:03:10 UTC
+Date: Wed, 02 Sep 2026 07:17:06 UTC
 MD5Sum:
- b8e67fb1cfe2ecc21140716df37ca6c9              556 Packages
- afe6b45c0f554c5d66fb125b0f9f9427              418 Packages.gz
+ 73b2687ddd80193ed4193a1800cc188a              556 Packages
+ 309df8fe55200c4ef69f3b105a4bf3fe              420 Packages.gz
 SHA256:
- 17140019e2b6de27de77caf1ad61108bfacecc0a032b47d3001f84e67c4e210d              556 Packages
- cfaac618ab5d57e63e37f6f07e224bd660a41f8620ff4b6e1b8e1c7a02f99793              418 Packages.gz
+ 7b5714c39fcb5440cb06572bf8d81a0ad85c19b055eb9fe063b63d3d8b28e8e1              556 Packages
+ b5ece7e55ce3bb6d074b8f9eeed57b9556fc85998fe9db9745671bf7cf1cbe21              420 Packages.gz
