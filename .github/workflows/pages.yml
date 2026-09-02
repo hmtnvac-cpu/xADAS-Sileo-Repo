@@ -31,9 +31,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y dpkg-dev
 
       - name: Rebuild package indexes
-        run: |
-          chmod +x scripts/rebuild-repo.sh
-          ./scripts/rebuild-repo.sh
+        run: bash scripts/rebuild-repo.sh
 
       - name: Commit package indexes
         run: |
